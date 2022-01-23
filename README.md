@@ -9,4 +9,4 @@
 
 ## Volume minimization
 
-![drawing](https://i.imgur.com/6DuG4Jw.png)
+![drawing](https://i.imgur.com/CLno3bJ.png)
